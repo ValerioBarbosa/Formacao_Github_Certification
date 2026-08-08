@@ -1,24 +1,30 @@
-# Formacao_Github_Certification
-**DIO - Formação Github Certification**
+# Formação GitHub Certification
 
-**Detalhes da formação**
+Repositório de estudos e atividades desenvolvidas durante a **Formação GitHub Certification**, oferecida pela [DIO](https://www.dio.me/).
 
-A Formação GitHub Certification é uma jornada educacional destinada a profissionais de tecnologia, focando em habilidades essenciais como controle de versão, colaboração e administração no ecossistema Git e GitHub. Em três módulos, os participantes aprendem a aplicar práticas de desenvolvimento modernas, gerenciar projetos com eficiência e explorar produtos inovadores do GitHub. Esta Formação prepara desenvolvedores, gerentes de projeto e administradores de sistema para enfrentar os desafios do desenvolvimento de software, oferecendo vantagem competitiva e elevando padrões de produtividade e segurança dentro do ecossistema do GitHub e suas certificações.
+## Sobre a formação
 
-Essencialmente, essa Formação promove uma proficiência indispensável no cenário tecnológico atual, te transformando em um profissional altamente capacitados e versáteis, prontos para implementar soluções inovadoras e liderar em ambientes de desenvolvimento complexos. É um investimento estratégico para você que busca excelência em suas carreiras e um diferencial competitivo no mercado de trabalho em tecnologia.
+A jornada aborda os fundamentos e as práticas essenciais do ecossistema Git e GitHub, incluindo controle de versão, colaboração em equipe, organização de projetos e recursos da plataforma.
 
-**Atividades:**
+## Objetivos de aprendizagem
 
-Desafio de Código: Coloque em prática todo o conhecimento adquirido nas aulas e teste o seu conhecimento na resolução de um desafio.
+- Utilizar Git para controlar e acompanhar alterações no código.
+- Trabalhar com repositórios, branches, commits e pull requests.
+- Aplicar fluxos colaborativos de desenvolvimento no GitHub.
+- Organizar projetos e documentar decisões técnicas.
+- Conhecer recursos de produtividade, administração e segurança da plataforma.
 
-Desafio de Projeto: Construa o seu portfólio construindo projetos práticos com o conhecimento adquirido ao longo das aulas.
+## Atividades
 
-**Ferramentas para o seu aprendizado:**
+- **Desafios de código:** exercícios para aplicar os conceitos estudados.
+- **Desafios de projeto:** entregas práticas voltadas à construção de portfólio.
+- **Estudos guiados:** registros dos conteúdos e recursos explorados durante a formação.
 
-Fórum: Espaço para você interagir e tirar suas dúvidas técnicas com a nossa comunidade.
+## Status
 
-Rooms: Espaço para você conversar com outros matriculados no bootcamp e aumentar o seu networking.
+Este repositório acompanha a evolução dos estudos e pode receber novas anotações e atividades ao longo da formação.
 
-Matriculados: Saiba quem está participando da mesma jornada educacional que você.
+## Autor
 
-Certificado: Baixe e compartilhe os certificados de todas as suas conquistas ao longo dessa formação.
+[Valério Barbosa](https://github.com/ValerioBarbosa)
+
